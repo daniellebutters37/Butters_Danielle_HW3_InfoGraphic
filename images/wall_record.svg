@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="wall_x5F_record" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 421 388" style="enable-background:new 0 0 421 388;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#161616;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:#4FA5A0;}
+	.st2{fill:#161616;}
+	.st3{fill:#161616;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:none;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'Futura-Medium';}
+	.st7{font-size:16px;}
+	.st8{fill:#D6E3E5;}
+</style>
+<g id="platinum">
+	<circle class="st0" cx="223.68" cy="217.98" r="163.19"/>
+	<circle class="st0" cx="181.75" cy="189.02" r="163.19"/>
+	<circle class="st1" cx="181.75" cy="189.02" r="99.87"/>
+	<circle class="st2" cx="181.75" cy="189.02" r="28.96"/>
+	<circle class="st3" cx="181.75" cy="189.02" r="4.74"/>
+	<rect x="128.7" y="132.58" class="st4" width="105.35" height="16.36"/>
+	<text transform="matrix(1 0 0 1 143.1551 145.7718)" class="st5 st6 st7">THE WALL</text>
+	<rect x="164.04" y="242.93" class="st4" width="35.41" height="16.36"/>
+	<text transform="matrix(1 0 0 1 167.1737 256.1277)" class="st5 st6 st7">EMI</text>
+</g>
+<g id="record">
+	<circle class="st8" cx="344.94" cy="71.2" r="61.83"/>
+	<circle class="st2" cx="344.94" cy="71.2" r="18.73"/>
+	<circle class="st3" cx="344.94" cy="71.2" r="4.74"/>
+	<rect x="303" y="35.76" class="st4" width="83.87" height="16.08"/>
+	<text transform="matrix(1 0 0 1 304.5687 48.9558)" class="st6 st7">PLATINUM</text>
+	<rect x="326.2" y="17.68" class="st4" width="37.21" height="16.08"/>
+	<text transform="matrix(1 0 0 1 330.4679 30.8772)" class="st6 st7">23x</text>
+</g>
+</svg>

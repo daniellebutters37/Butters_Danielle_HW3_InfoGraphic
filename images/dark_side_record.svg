@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="dark_x5F_side_x5F_record" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 421 388" style="enable-background:new 0 0 421 388;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D6E3E5;}
+	.st1{fill:#161616;}
+	.st2{fill:#161616;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{font-family:'Futura-Medium';}
+	.st5{font-size:16px;}
+	.st6{fill:#161616;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;}
+</style>
+<g id="platinum">
+	<circle class="st0" cx="79.62" cy="87.48" r="61.83"/>
+	<circle class="st1" cx="79.62" cy="87.48" r="18.73"/>
+	<circle class="st2" cx="79.62" cy="87.48" r="4.74"/>
+	<rect x="37.69" y="52.04" class="st3" width="83.87" height="16.08"/>
+	<text transform="matrix(1 0 0 1 39.2566 65.232)" class="st4 st5">PLATINUM</text>
+	<rect x="60.89" y="33.96" class="st3" width="37.21" height="16.08"/>
+	<text transform="matrix(1 0 0 1 65.1558 47.1533)" class="st4 st5">15x</text>
+</g>
+<g id="record">
+	<circle class="st6" cx="237.81" cy="203.35" r="163.19"/>
+	<circle class="st6" cx="237.81" cy="203.35" r="99.87"/>
+	<circle class="st6" cx="237.81" cy="203.35" r="28.96"/>
+	<circle class="st2" cx="237.81" cy="203.35" r="4.74"/>
+	<rect x="219.21" y="250.46" class="st3" width="37.21" height="16.08"/>
+	<text transform="matrix(1 0 0 1 223.2382 263.6558)" class="st7 st4 st5">EMI</text>
+	<rect x="184.77" y="128.88" class="st3" width="105.35" height="16.36"/>
+	<text transform="matrix(1 0 0 1 195.7662 142.0738)" class="st7 st4 st5">DARK SIDE</text>
+	<rect x="176.63" y="148.13" class="st3" width="127.28" height="16.36"/>
+	<text transform="matrix(1 0 0 1 181.1296 161.3257)" class="st7 st4 st5">OF THE MOON</text>
+</g>
+</svg>

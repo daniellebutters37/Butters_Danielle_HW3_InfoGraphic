@@ -1,0 +1,22 @@
+{
+  "name": "butters_danielle_hw3_infographic",
+  "version": "1.0.0",
+  "description": "Pink Floyd Infographic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellebutters37/Butters_Danielle_HW3_Infographic.git"
+  },
+  "author": "Danielle Butters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniellebutters37/Butters_Danielle_HW3_Infographic/issues"
+  },
+  "homepage": "https://github.com/daniellebutters37/Butters_Danielle_HW3_Infographic#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}

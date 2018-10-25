@@ -107,7 +107,7 @@ h3, p, span {
 .horizontalLineR {
   background-color: #fff;
   width: 35%;
-  height: 0.2em;
+  height: 0.15em;
   margin-top: 1%;
   float: right; }
 
@@ -164,7 +164,7 @@ h3, p, span {
 .horizontalLineL {
   background-color: #fff;
   width: 35%;
-  height: 0.2em;
+  height: 0.15em;
   margin-top: 1%;
   float: left; }
 
@@ -265,7 +265,7 @@ h3, p, span {
 
 @media (min-width: 600px) {
   #atomTimeLine {
-    border-right: 0.5em solid #fff;
+    border-right: 0.3em solid #fff;
     margin-right: 20%; }
 
   #atomImages {
@@ -310,7 +310,7 @@ h3, p, span {
 
 @media (min-width: 600px) {
   #darkSideTimeLine {
-    border-left: 0.5em solid #fff;
+    border-left: 0.3em solid #fff;
     margin-left: 20%; }
 
   #darkSideImages {
@@ -356,7 +356,7 @@ h3, p, span {
 
 @media (min-width: 600px) {
   #wishYouTimeLine {
-    border-right: 0.5em solid #fff;
+    border-right: 0.3em solid #fff;
     margin-right: 20%; }
 
   #wishYouImages {
@@ -401,7 +401,7 @@ h3, p, span {
 
 @media (min-width: 600px) {
   #animalsTimeLine {
-    border-left: 0.5em solid #fff;
+    border-left: 0.3em solid #fff;
     margin-left: 20%; }
 
   #animalsImages {
@@ -447,7 +447,7 @@ h3, p, span {
 
 @media (min-width: 600px) {
   #wallTimeLine {
-    border-right: 0.5em solid #fff;
+    border-right: 0.2em solid #fff;
     margin-right: 20%; }
 
   #wallImages {

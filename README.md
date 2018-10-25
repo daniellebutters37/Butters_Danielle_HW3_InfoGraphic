@@ -1,5 +1,4 @@
 # Butters_Danielle_HW3_Infographic
-# Butters_Danielle_HW3_InfoGraphic
 
 **Motivation**
 For this project an animated infographic was created to highlight Pink Floyds most influential albums. This website infographic helped in learning SVG animations triggered throught javascript and css3 animations.

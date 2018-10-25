@@ -286,7 +286,7 @@ h3,p, span {
 /*-------- writers names --------*/
 
 .waters {
-	color: $roger;
+	color: $waters;
 	font-size: 0.6em;
 	margin-top: 4%;
 }
@@ -606,3 +606,8 @@ h3,p, span {
 }
 
 
+/*-------- Animation --------*/
+
+#Pink {
+    animation-delay: 0.5s;
+  }

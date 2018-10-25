@@ -18,5 +18,8 @@
   "homepage": "https://github.com/daniellebutters37/Butters_Danielle_HW3_Infographic#readme",
   "devDependencies": {
     "browser-sync": "^2.26.3"
+  },
+  "dependencies": {
+    "waypoints": "^4.0.1"
   }
 }

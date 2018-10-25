@@ -151,7 +151,7 @@ h3,p, span {
 .horizontalLineR {
 	background-color:  $timeline-color;
 	width: 35%;
-	height: 0.2em;
+	height: 0.15em;
 	margin-top: 1%;
 	float:right;
 }
@@ -224,7 +224,7 @@ h3,p, span {
 .horizontalLineL {
 	background-color:  $timeline-color;
 	width: 35%;
-	height: 0.2em;
+	height: 0.15em;
 	margin-top: 1%;
 	float:left;
 }
@@ -353,7 +353,7 @@ h3,p, span {
 @media (min-width: $tablet-width) {
 
 	#atomTimeLine {
-		border-right: 0.5em solid $timeline-color;
+		border-right: 0.3em solid $timeline-color;
 		margin-right: 20%;
 	}
 
@@ -412,7 +412,7 @@ h3,p, span {
 @media (min-width: $tablet-width) {
 
 	#darkSideTimeLine {
-		border-left: 0.5em solid $timeline-color;
+		border-left: 0.3em solid $timeline-color;
 		margin-left: 20%;
 	}
 
@@ -472,7 +472,7 @@ h3,p, span {
 @media (min-width: $tablet-width) {
 
 	#wishYouTimeLine {
-		border-right: 0.5em solid $timeline-color;
+		border-right: 0.3em solid $timeline-color;
 		margin-right: 20%;
 	}
 
@@ -531,7 +531,7 @@ h3,p, span {
 @media (min-width: $tablet-width) {
 
 	#animalsTimeLine {
-		border-left: 0.5em solid $timeline-color;
+		border-left: 0.3em solid $timeline-color;
 		margin-left: 20%;
 	}
 
@@ -591,7 +591,7 @@ h3,p, span {
 @media (min-width: $tablet-width) {
 
 	#wallTimeLine {
-		border-right: 0.5em solid $timeline-color;
+		border-right: 0.2em solid $timeline-color;
 		margin-right: 20%;
 	}
 

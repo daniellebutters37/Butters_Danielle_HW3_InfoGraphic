@@ -1,4 +1,4 @@
-# Butters_Danielle_HW3_Infographic
+# Pink Floyd Infographic
 
 **Motivation**
 For this project an animated infographic was created to highlight Pink Floyds most influential albums. This website infographic helped in learning SVG animations triggered throught javascript and css3 animations.
@@ -11,16 +11,17 @@ Illustrator/Photoshop
 SVG Images
 
 **Build**
+CSS grid used to make responsive
 SASS plug-in for Visual Studio Code to compile CSS
 animate.css used for animations
 wow.js used for to trigger animations on scroll
 
 **Code Example**
+HTML using wow.js and animate.css
 ```
     <div class="record wow rotateInUpRight">
 		<img src="images/atom_record.svg" alt="Atom Record">
 	</div>
-    
 ```
 
 **Installation**

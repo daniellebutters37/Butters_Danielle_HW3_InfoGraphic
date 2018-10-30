@@ -12,8 +12,16 @@ SVG Images
 
 **Build**
 SASS plug-in for Visual Studio Code to compile CSS
+animate.css used for animations
+wow.js used for to trigger animations on scroll
 
 **Code Example**
+```
+    <div class="record wow rotateInUpRight">
+		<img src="images/atom_record.svg" alt="Atom Record">
+	</div>
+    
+```
 
 **Installation**
 SASS

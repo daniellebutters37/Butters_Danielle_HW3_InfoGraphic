@@ -151,7 +151,7 @@ h3,p, span {
 	cursor: pointer;
 	color: $reveal-color;
 	border-radius: 6em;
-	text-align:center;
+	text-align: center;
 }
 
 .hover:hover {
@@ -352,6 +352,7 @@ h3,p, span {
 	border-left: 0.2em solid $timeline-color;
 	margin-right: 10%;
 	margin-left: 10%;
+	padding-bottom: 1%;
 }
 
 .albumWeeksL {

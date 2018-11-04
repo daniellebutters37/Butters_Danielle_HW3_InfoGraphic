@@ -1,1 +1,447 @@
-body{background-color:#161616}h3,p,span{color:#fff;font-family:"futura",arial,sans-serif}.hidden{display:none}#mainHeader{width:100%;display:grid}#logoTitle{width:80%}#pinkFloyd{margin-top:-30px;margin-left:-80px}#mainNav{width:100%;display:grid}#nav{justify-self:center;margin-bottom:10%;margin-top:10%}#nav li{display:inline;padding:.1em}#nav img{width:4em;height:4em}#about{text-align:center}@media(min-width: 600px){#pinkFloyd{margin-top:-50px;margin-left:-90px}#mainNav{width:100%}#nav{margin-bottom:5%;margin-top:5%}#nav li{padding:1em}#mainNav img{width:5em;height:5em}#about{font-size:1.7em}}@media(min-width: 800px){#mainHeader{display:grid;grid-template-columns:1fr 1fr}#logoTitle{width:100%}#pinkFloyd{margin-top:-80px;margin-left:-200px}#mainNav{width:100%;margin-top:10%}#nav{float:left}#nav li{padding:.5em}#mainNav img{width:4em;height:4em}#about{grid-column:1/3;margin-top:5%}}#wall{padding-bottom:10%}.year{font-size:4em;margin-bottom:3%}.title{font-size:2em}.number{font-size:1.4em}.hover{cursor:pointer;color:#6a9ccb;border-radius:6em;text-align:center}.hover:hover{color:#99c5d8}.hidden{display:none}.horizontalLine{height:.1em}@media(min-width: 600px){.year{font-size:5em;margin-bottom:3%}.title{font-size:3em}}@media(min-width: 800px){.year{font-size:6em;margin-bottom:3%}.title{font-size:4em}}.waters{color:#ec6a5e;margin:3%}.gilmour{color:#70c4a4;margin:3%}.wright{color:#966eae;margin:3%}.mason{color:#e8b946;margin:3%}.titleR{margin-top:25%;margin-bottom:10%;margin-right:10%;text-align:right}.lineR{background-color:#fff;width:40%;height:.3em;float:right;margin-top:3%}.albumContentR{border-right:.2em solid #fff;margin-right:10%;margin-left:10%;padding-bottom:1%}.albumWeeksR{display:grid;margin-bottom:20%}.recordSongsR{display:grid;margin-bottom:20%}.ampWritersR{display:grid;margin-bottom:20%}.albumR{grid-column:1/2}.weeksR{grid-column:2/3;text-align:right;align-self:center}.weeksR p{margin:3%}.recordR{grid-column:1/2}.songsR{grid-column:2/3;text-align:right;align-self:center}.songsR p{margin:3%}.ampR{grid-column:1/2}.writersR{grid-column:2/3;text-align:right;align-self:center}.writersR p{margin:3%}.horizontalLineR{background-color:#fff;width:40%;height:.2em;float:right}@media(min-width: 600px){.albumContentR{border-right:.25em solid #fff}.weeksR p{font-size:2em}.songsR p{font-size:2em}.writersR p{font-size:2em}}@media(min-width: 800px){.albumContentR{border-right:.25em solid #fff;margin-right:20%;margin-left:20%}.weeksR p{font-size:3em}.songsR p{font-size:3em}.writersR p{font-size:3em}}.titleL{margin-top:25%;margin-bottom:10%;margin-left:10%;text-align:left}.lineL{background-color:#fff;width:40%;height:.3em;margin-top:3%}.albumContentL{border-left:.2em solid #fff;margin-right:10%;margin-left:10%}.albumWeeksL{display:grid;margin-bottom:20%}.recordSongsL{display:grid;margin-bottom:20%}.ampWritersL{display:grid;margin-bottom:20%}.albumL{grid-column:2/3}.weeksL{grid-column:1/2;text-align:left;align-self:center}.weeksL p{margin:3%}.recordL{grid-column:2/3}.songsL{grid-column:1/2;text-align:left;align-self:center}.songsL p{margin:3%}.ampL{grid-column:2/3}.writersL{grid-column:1/2;text-align:left;align-self:center}.writersL p{margin:3%}.horizontalLineL{background-color:#fff;width:40%;height:.2em}@media(min-width: 600px){.albumContentL{border-left:.25em solid #fff}.weeksL p{font-size:2em}.songsL p{font-size:2em}.writersL p{font-size:2em}}@media(min-width: 800px){.albumContentL{border-left:.25em solid #fff;margin-right:20%;margin-left:20%}.weeksL p{font-size:3em}.songsL p{font-size:3em}.writersL p{font-size:3em}}#Pink{animation-delay:.5s}/*# sourceMappingURL=main.css.map */
+body {
+  background-color: #161616;
+}
+
+h3, p, span {
+  color: #fff;
+  font-family: "futura", arial, sans-serif;
+}
+
+.hidden {
+  display: none;
+}
+
+/*-------- Header --------*/
+#mainHeader {
+  width: 100%;
+  display: grid;
+}
+
+#logoTitle {
+  width: 80%;
+}
+
+#pinkFloyd {
+  margin-top: -30px;
+  margin-left: -80px;
+}
+
+#mainNav {
+  width: 100%;
+  display: grid;
+}
+
+#nav {
+  justify-self: center;
+  margin-bottom: 10%;
+  margin-top: 10%;
+}
+
+#nav li {
+  display: inline;
+  padding: 0.1em;
+}
+
+#nav img {
+  width: 4em;
+  height: 4em;
+}
+
+#about {
+  text-align: center;
+}
+
+@media (min-width: 600px) {
+  #pinkFloyd {
+    margin-top: -50px;
+    margin-left: -90px;
+  }
+
+  #mainNav {
+    width: 100%;
+  }
+
+  #nav {
+    margin-bottom: 5%;
+    margin-top: 5%;
+  }
+
+  #nav li {
+    padding: 1em;
+  }
+
+  #mainNav img {
+    width: 5em;
+    height: 5em;
+  }
+
+  #about {
+    font-size: 1.7em;
+  }
+}
+@media (min-width: 800px) {
+  #mainHeader {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #logoTitle {
+    width: 100%;
+  }
+
+  #pinkFloyd {
+    margin-top: -80px;
+    margin-left: -200px;
+  }
+
+  #mainNav {
+    width: 100%;
+    margin-top: 10%;
+  }
+
+  #nav {
+    float: left;
+  }
+
+  #nav li {
+    padding: 0.5em;
+  }
+
+  #mainNav img {
+    width: 4em;
+    height: 4em;
+  }
+
+  #about {
+    grid-column: 1/3;
+    margin-top: 5%;
+  }
+}
+/*-------- General Classes --------*/
+#wall {
+  padding-bottom: 10%;
+}
+
+.year {
+  font-size: 4em;
+  margin-bottom: 3%;
+}
+
+.title {
+  font-size: 2em;
+}
+
+.number {
+  font-size: 1.4em;
+}
+
+.hover {
+  cursor: pointer;
+  color: #6A9CCB;
+  border-radius: 6em;
+  text-align: center;
+}
+
+.hover:hover {
+  color: #99C5D8;
+}
+
+.hidden {
+  display: none;
+}
+
+.horizontalLine {
+  height: 0.1em;
+}
+
+@media (min-width: 600px) {
+  .year {
+    font-size: 5em;
+    margin-bottom: 3%;
+  }
+
+  .title {
+    font-size: 3em;
+  }
+}
+@media (min-width: 800px) {
+  .year {
+    font-size: 6em;
+    margin-bottom: 3%;
+  }
+
+  .title {
+    font-size: 4em;
+  }
+}
+/*-------- writers names --------*/
+.waters {
+  color: #ec6a5e;
+  margin: 3%;
+}
+
+.gilmour {
+  color: #70c4a4;
+  margin: 3%;
+}
+
+.wright {
+  color: #966eae;
+  margin: 3%;
+}
+
+.mason {
+  color: #e8b946;
+  margin: 3%;
+}
+
+/*-------- Right Elements --------*/
+.titleR {
+  margin-top: 25%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  text-align: right;
+}
+
+.lineR {
+  background-color: #fff;
+  width: 40%;
+  height: 0.3em;
+  float: right;
+  margin-top: 3%;
+}
+
+.albumContentR {
+  border-right: 0.2em solid #fff;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 1%;
+}
+
+.albumWeeksR {
+  display: grid;
+  margin-bottom: 20%;
+}
+
+.recordSongsR {
+  display: grid;
+  margin-bottom: 20%;
+}
+
+.ampWritersR {
+  display: grid;
+  margin-bottom: 20%;
+}
+
+.albumR {
+  grid-column: 1/2;
+}
+
+.weeksR {
+  grid-column: 2/3;
+  text-align: right;
+  align-self: center;
+}
+
+.weeksR p {
+  margin: 3%;
+}
+
+.recordR {
+  grid-column: 1/2;
+}
+
+.songsR {
+  grid-column: 2/3;
+  text-align: right;
+  align-self: center;
+}
+
+.songsR p {
+  margin: 3%;
+}
+
+.ampR {
+  grid-column: 1/2;
+}
+
+.writersR {
+  grid-column: 2/3;
+  text-align: right;
+  align-self: center;
+}
+
+.writersR p {
+  margin: 3%;
+}
+
+.horizontalLineR {
+  background-color: #fff;
+  width: 40%;
+  height: 0.2em;
+  float: right;
+}
+
+@media (min-width: 600px) {
+  .albumContentR {
+    border-right: 0.25em solid #fff;
+  }
+
+  .weeksR p {
+    font-size: 2em;
+  }
+
+  .songsR p {
+    font-size: 2em;
+  }
+
+  .writersR p {
+    font-size: 2em;
+  }
+}
+@media (min-width: 800px) {
+  .albumContentR {
+    border-right: 0.25em solid #fff;
+    margin-right: 20%;
+    margin-left: 20%;
+  }
+
+  .weeksR p {
+    font-size: 3em;
+  }
+
+  .songsR p {
+    font-size: 3em;
+  }
+
+  .writersR p {
+    font-size: 3em;
+  }
+}
+/*-------- Left Elements --------*/
+.titleL {
+  margin-top: 25%;
+  margin-bottom: 10%;
+  margin-left: 10%;
+  text-align: left;
+}
+
+.lineL {
+  background-color: #fff;
+  width: 40%;
+  height: 0.3em;
+  margin-top: 3%;
+}
+
+.albumContentL {
+  border-left: 0.2em solid #fff;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 1%;
+}
+
+.albumWeeksL {
+  display: grid;
+  margin-bottom: 20%;
+}
+
+.recordSongsL {
+  display: grid;
+  margin-bottom: 20%;
+}
+
+.ampWritersL {
+  display: grid;
+  margin-bottom: 20%;
+}
+
+.albumL {
+  grid-column: 2/3;
+}
+
+.weeksL {
+  grid-column: 1/2;
+  text-align: left;
+  align-self: center;
+}
+
+.weeksL p {
+  margin: 3%;
+}
+
+.recordL {
+  grid-column: 2/3;
+}
+
+.songsL {
+  grid-column: 1/2;
+  text-align: left;
+  align-self: center;
+}
+
+.songsL p {
+  margin: 3%;
+}
+
+.ampL {
+  grid-column: 2/3;
+}
+
+.writersL {
+  grid-column: 1/2;
+  text-align: left;
+  align-self: center;
+}
+
+.writersL p {
+  margin: 3%;
+}
+
+.horizontalLineL {
+  background-color: #fff;
+  width: 40%;
+  height: 0.2em;
+}
+
+@media (min-width: 600px) {
+  .albumContentL {
+    border-left: 0.25em solid #fff;
+  }
+
+  .weeksL p {
+    font-size: 2em;
+  }
+
+  .songsL p {
+    font-size: 2em;
+  }
+
+  .writersL p {
+    font-size: 2em;
+  }
+}
+@media (min-width: 800px) {
+  .albumContentL {
+    border-left: 0.25em solid #fff;
+    margin-right: 20%;
+    margin-left: 20%;
+  }
+
+  .weeksL p {
+    font-size: 3em;
+  }
+
+  .songsL p {
+    font-size: 3em;
+  }
+
+  .writersL p {
+    font-size: 3em;
+  }
+}
+/*-------- Animation --------*/
+#Pink {
+  animation-delay: 0.5s;
+}
+
+/*# sourceMappingURL=main.css.map */
